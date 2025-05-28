@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IDerwards/IDerwards/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IDerwards/IDerwards/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IDerwards/IDerwards/output/pacman-contribution-graph.svg">
-</picture>
-
 # About Me:
  Halo, saya Repan bisa di panggil Derward dalam dunia digital, saya pelajar asal Bogor yang saat ini menempuh pendidikan di bidang Pengembangan Perangkat lunak dan Gim (PPLG). Saya memiliki ketertarikan kuat terhadap teknologi, khususnya dalam pengembangan perangkat lunak dan gim. Melalui profil Github ini, saya harap dapat mendokumentasikan proses belajar saya serta berbagi pengetahuan dan proyek yang saya kerjakan. Saya percaya kolaborasi dan pembelajaran berkelanjutan adalah kunci untuk tumbuh di dunia teknologi yang dinamis.
 
