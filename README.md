@@ -15,8 +15,10 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 # Working on: 🚀
-- Artificial Intellegent Engineer
-- Learning [C++, HTML, JavaScript, NodeJS]
+→ C++
+→ HTML
+→ JavaScript
+→ Node.js
 
 # GitHub Stats: 📊
 <p align="center">
