@@ -1,5 +1,5 @@
 # About Me:
- Halo, saya Repan bisa di panggil Derward dalam dunia digital, saya pelajar asal Bogor yang saat ini menempuh pendidikan di bidang Pengembangan Perangkat lunak dan Gim (PPLG). Saya memiliki ketertarikan kuat terhadap teknologi, khususnya dalam pengembangan perangkat lunak dan gim. Melalui profil Github ini, saya harap dapat mendokumentasikan proses belajar saya serta berbagi pengetahuan dan proyek yang saya kerjakan. Saya percaya kolaborasi dan pembelajaran berkelanjutan adalah kunci untuk tumbuh di dunia teknologi yang dinamis.
+ Halo, saya Repan (Derward di dunia digital), pelajar PPLG asal Bogor. Saya tertarik pada pengembangan software dan gim, dan menggunakan GitHub untuk mendokumentasikan pembelajaran serta berbagi proyek. Saya percaya kolaborasi dan belajar terus-menerus adalah kunci berkembang di dunia teknologi.
 
 # Social Media: 📡    
 
