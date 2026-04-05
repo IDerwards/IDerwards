@@ -2,6 +2,7 @@
  Halo, saya Repan, pelajar PPLG asal Bogor. Saya tertarik pada pengembangan software dan gim, dan menggunakan GitHub untuk mendokumentasikan pembelajaran serta berbagi proyek. Saya percaya kolaborasi dan belajar terus-menerus adalah kunci berkembang di dunia teknologi.
 
 # Social Media: 📡    
+<br clear="both">
 
 <div align="left">
   <a href="iDerward" target="_blank">
@@ -11,7 +12,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 </div>
-
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
