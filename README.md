@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IDerwards/IDerwards/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IDerwards/IDerwards/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IDerwards/IDerwards/output/pacman-contribution-graph.svg">
+</picture>
+
 # About Me:
  Halo, saya Repan, pelajar PPLG asal Bogor. Saya tertarik pada pengembangan software dan gim, dan menggunakan GitHub untuk mendokumentasikan pembelajaran serta berbagi proyek. Saya percaya kolaborasi dan belajar terus-menerus adalah kunci berkembang di dunia teknologi.
 
