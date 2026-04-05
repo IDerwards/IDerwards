@@ -1,9 +1,7 @@
 # About Me:
  Halo, saya Repan, pelajar PPLG asal Bogor. Saya tertarik pada pengembangan software dan gim, dan menggunakan GitHub untuk mendokumentasikan pembelajaran serta berbagi proyek. Saya percaya kolaborasi dan belajar terus-menerus adalah kunci berkembang di dunia teknologi.
 
-# Social Media: 📡    
-<br clear="both">
-
+# Social Media: 📡 
 <div align="left">
   <a href="iDerward" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
